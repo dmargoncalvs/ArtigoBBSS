@@ -1,0 +1,51 @@
+#title, .sub2
+{
+    font-family: Verdana;
+    font-style: normal;
+    font-size: 22px;
+    color: purple;
+    padding: 11px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.subtitulo
+{
+    font-family: verdana;
+    font-size: 18px;
+    font-style: italic;
+    color: #330066;
+    text-align: center;
+}
+.corpo
+{
+    font-style: normal;
+    font-family: verdana;
+    color: black;
+}
+.rodape1
+{
+    font-style: normal;
+    font-family: verdana;
+    color: black;
+    border: 0.5px black ;
+}
+.body
+{
+margin: justify;
+padding: auto;
+background-image: url("fundo_back.jpg");
+}
+.images
+{
+border: 2px solid;
+margin: 10px 10px;
+padding: 1px;
+}
+.images2
+{
+border: 2px solid;
+margin: 10px 10px;
+padding: 1px;
+}
+
+
